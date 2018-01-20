@@ -1,13 +1,12 @@
 # kazuemon.github.io
 
 <div style="text-align:center;">
-
-![びっくり箱](/assets/bikkuri-bako.png)
-
+<img src="/assets/bikkuri-bako.png">
+<p>
 ないようがないようです...
-
+</p>
 </div>
 
 ---
 
-Icon by http://icooon-mono.com/
+Icon by [ICOOON MONO](http://icooon-mono.com/)
