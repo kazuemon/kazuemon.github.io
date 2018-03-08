@@ -1,7 +1,7 @@
 # NukkitJapanWiki 統合・MCBEDevWiki 設立に関するお知らせ
 
 NukkitJapanWikiの管理をしております、かずえもんです。  
-この度、3月末を持って当Wikiを閉鎖し、新たな開発総合Wiki「MCBE Dev Wiki」([https://dev-wiki.mcbe.jp](https://dev-wiki.mcbe.jp)) を設立することにいたしました。  
+この度、3月末を持ってNukkitJapanWikiを閉鎖し、新たな開発総合Wiki「MCBE Dev Wiki」([https://dev-wiki.mcbe.jp](https://dev-wiki.mcbe.jp)) を設立することにいたしました。  
 
 ## 統合スケジュール
 
