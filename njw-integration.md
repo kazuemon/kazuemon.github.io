@@ -10,7 +10,7 @@ NukkitJapanWikiの管理をしております、かずえもんです。
 | 進行中 | 新Wiki「MCBE Dev Wiki」の整備を開始します。 |
 | 完了 | NukkitJapanWikiを閉鎖します。(アクセスできなくなります)  |
 | 2018年4月頃 (予定) | 新Wiki「MCBE Dev Wiki」を公開します。 |
-| 〃 (予定) | 旧「Nukkit非公式日本語Wiki([https://dev-wiki.mcbe.jp](http://nukkit.memo.wiki/))」を閉鎖します。(アクセスできなくなります)  |
+| 〃 (予定) | 旧「Nukkit非公式日本語Wiki([http://nukkit.memo.wiki/](http://nukkit.memo.wiki/))」を閉鎖します。(アクセスできなくなります)  |
 
 ## 統合に関するお問い合わせ
 
