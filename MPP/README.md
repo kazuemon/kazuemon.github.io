@@ -27,9 +27,10 @@
 	- アカウント管理
 		- Firebase Auth
 			(https://firebase.google.com/products/auth/?hl=ja)
-	- 内部API (Nodejs)
+	- 内部API
 		- Cloud Functions for Firebase
 			(https://firebase.google.com/docs/functions/?hl=ja) 
+			- NodeJS (JavaScript) での開発
 	- データ管理
 		- Firestore
 			(https://firebase.google.com/products/firestore/?hl=ja)
@@ -37,10 +38,12 @@
 - Webアプリ
 	- Firebase Hosting
 		(https://firebase.google.com/products/hosting/?hl=ja)
+		- Vue (JavaScript) での開発？
 
 - スマホ用アプリ
 	- Flutter (クロスプラットフォーム開発可能)
 		(https://flutter.io)
+		- Dart での開発
 
 ##  現在の課題
 
