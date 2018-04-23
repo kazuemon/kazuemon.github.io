@@ -31,6 +31,14 @@
 <td>公式サイト担当</td>
 <td>そうたん (@soutan_fon)</td>
 </tr>
+<tr>
+<td>アイコンお願い (<strong>予定</strong>)</td>
+<td>うろのるさん (@URNR__)</td>
+</tr>
+<tr>
+<td>宣伝動画お願い (<strong>予定</strong>)</td>
+<td>るいるいさん (@chell_uoxou)</td>
+</tr>
 </tbody>
 </table><h2 id="現時点で作る必要があるもの">現時点で作る必要があるもの</h2>
 <ul>
@@ -99,10 +107,11 @@
 <p>制作物の配布を行う場。</p>
 <h4 id="サブカテゴリ">サブカテゴリ</h4>
 <ul>
+<li>ワールド</li>
 <li>テクスチャ</li>
 <li>スキン</li>
 <li>Mod</li>
-<li>アドオン</li>
+<li>アドオン (需要あり?)</li>
 <li>PMMPプラグイン</li>
 <li>Nukkitプラグイン</li>
 <li>MiNETプラグイン</li>
@@ -118,6 +127,7 @@
 <li>スキン</li>
 <li>Mod</li>
 <li>アドオン</li>
+<li>コマンド</li>
 <li>PMMPプラグイン</li>
 <li>Nukkitプラグイン</li>
 <li>MiNETプラグイン</li>
